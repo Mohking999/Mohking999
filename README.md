@@ -66,3 +66,5 @@ A collection of test applications built with Flutter and Dart to explore and dem
 ---
 
 ## 🤝 Let's Connect
+
+- LinkedIn: [www.linkedin.com/in/djebiri-mohamed-abdrazak-6789aa336](https://www.linkedin.com/in/djebiri-mohamed-abdrazak-6789aa336)
